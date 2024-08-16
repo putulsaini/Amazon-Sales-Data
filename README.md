@@ -39,7 +39,7 @@ enterprise.
 <ul>
   <li>Python 3.x</li>
   <li>Jupyter Notebook</li>
-  <li>Power BI Desktop/</li>
+  <li>Power BI Desktop</li>
 </ul>
 
 <h2>License</h2>
