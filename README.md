@@ -14,9 +14,9 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
 
 <h2>Project Structure 📚</h2>
 <ol type="i">
-      <li>Dataset 📑: This folder contains the Dataset for Heart Disease Project.</li>
+      <li>Dataset 📑: This folder contains the Dataset for Amazon_Sales Project.</li>
         <ul>
-            <li>Heart_disease_dataset.csv: Dataset for Heart Disease 🩺</li>
+            <li>Amazon_Sales.csv: Dataset for Amazon_Sales </li>
         </ul>
       <br>  
      <li>Notebooks 📝: Jupyter notebooks for data cleaning, analysis, and visualization using Python.</li>
@@ -26,7 +26,7 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
         <br>    
     <li>Power BI 📊: Power BI files for Creating Visualizations and Reports.</li>
         <ul>
-            <li>Heart_disease_analysis.pbix: Power BI file containing visualizations and Reports. 📈</li>
+            <li>Amazon_Sales_analysis.pbix: Power BI file containing visualizations and Reports. 📈</li>
         </ul>
         <br>    
     <li>README.md 🧾: The main README file providing an overview of the project and its structure.</li>
