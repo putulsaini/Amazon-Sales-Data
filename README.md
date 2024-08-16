@@ -1,4 +1,4 @@
-# Amazon-Sales-Data
+# Amazon Sales Data
 
 <h2>Problem Statement</h2>
 Health is real wealth in the pandemic time we all realized the brute effects of Covid-19 on all irrespective of any status. You are required to analyze this health and medical data for better future preparation
