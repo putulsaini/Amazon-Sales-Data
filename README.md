@@ -1,7 +1,10 @@
 # Amazon Sales Data
 
 <h2>Problem Statement</h2>
-Health is real wealth in the pandemic time we all realized the brute effects of Covid-19 on all irrespective of any status. You are required to analyze this health and medical data for better future preparation
+Sales management has gained importance to meet increasing competition and the need
+for improved methods of distribution to reduce cost and to increase profits. Sales
+management today is the most important function in a commercial and business
+enterprise.
 
 <h2>Overview</h2>
 
@@ -38,9 +41,6 @@ Health is real wealth in the pandemic time we all realized the brute effects of 
   <li>Jupyter Notebook</li>
   <li>Power BI Desktop/</li>
 </ul>
-
-<h2>Insights</h2>
-We cleaned the dataset using Python in Jupyter Notebook and subsequently created a Power BI Desktop Dashboard. <br><br>
 
 <h2>License</h2>
 This project is licensed under the MIT License.
