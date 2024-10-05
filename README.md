@@ -46,27 +46,29 @@ enterprise.
 
 -	  Electronics has the highest average rating at 6.5k.
 
-![p  r](https://github.com/user-attachments/assets/b8c8ea2f-5a29-4b96-989e-f0c2c4f56220)
+![avg rating   price](https://github.com/user-attachments/assets/9d0b2c49-0376-4882-9182-84971b7f9e37)
+
 
  2.     How do cumulative ratings differ across product categories?
 
 -       The Electronics category leads with 3,747 total ratings, while Automotive and Toys & Games have only 4 ratings each, showing a significant difference in cumulative ratings 
         across categories.
 
-   ![cumilative rating breakdown by category](https://github.com/user-attachments/assets/48f7f7a8-f863-4e0f-87bd-1aa625810903)
+![pie](https://github.com/user-attachments/assets/adaee4bb-c1a2-436a-96bb-35535b3dadbe)
+
 
 3.      How does the total product count vary across different price ranges?
 
 -       Most purchases occur in the 0-1000 and 1000-5000 price ranges, primarily within the Electronics and Home and Kitchen categories.
 
-  ![product count](https://github.com/user-attachments/assets/e27d9fe4-5912-4de2-9967-d360f8772e4d)
+![product count](https://github.com/user-attachments/assets/f197a547-8595-4760-b9c8-dd5a7aee70b0)
 
 4.      How do the average ratings compare to the discounted prices across different product  
         categories?
 
 -       Electronics has the highest average rating of 5 at 2.94k, while Home and Kitchen has a rating of 2 at 2.4k.
 
-  ![avg rating nd discounted price by categoey](https://github.com/user-attachments/assets/7a5848f1-7bbe-4771-9d2b-ac5e5ad2ebca)
+  ![rating   discounted](https://github.com/user-attachments/assets/6decb6ce-e4a3-4f74-8300-4b2e21f44bc3)
 
 5.      Which category has the highest average price?
 
