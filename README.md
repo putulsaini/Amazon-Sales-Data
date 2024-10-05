@@ -42,6 +42,49 @@ enterprise.
   <li>Power BI Desktop</li>
 </ul>
 
+1.      Which product category has the highest average rating?
+
+-	  Electronics has the highest average rating at 6.5k.
+
+![p  r](https://github.com/user-attachments/assets/b8c8ea2f-5a29-4b96-989e-f0c2c4f56220)
+
+ 2.     How do cumulative ratings differ across product categories?
+
+-       The Electronics category leads with 3,747 total ratings, while Automotive and Toys & Games have only 4 ratings each, showing a significant difference in cumulative ratings 
+        across categories.
+
+   ![cumilative rating breakdown by category](https://github.com/user-attachments/assets/48f7f7a8-f863-4e0f-87bd-1aa625810903)
+
+3.      How does the total product count vary across different price ranges?
+
+-       Most purchases occur in the 0-1000 and 1000-5000 price ranges, primarily within the Electronics and Home and Kitchen categories.
+
+  ![product count](https://github.com/user-attachments/assets/e27d9fe4-5912-4de2-9967-d360f8772e4d)
+
+4.      How do the average ratings compare to the discounted prices across different product  
+        categories?
+
+-       Electronics has the highest average rating of 5 at 2.94k, while Home and Kitchen has a rating of 2 at 2.4k.
+
+  ![avg rating nd discounted price by categoey](https://github.com/user-attachments/assets/7a5848f1-7bbe-4771-9d2b-ac5e5ad2ebca)
+
+5.      Which category has the highest average price?
+
+-       The automotive category has the highest average price compared to other categories at 2,339.
+
+  ![categories details](https://github.com/user-attachments/assets/7d134c1a-6f97-417e-8ae8-72d61521b306)
+
+6.       How do average ratings vary across different price ranges?
+
+-       Average ratings rise with higher price ranges, peaking in the 10,000 to 50,000 range, with electronics at 21.9k and home & kitchen at 19.2k, suggesting a link between price and 
+        quality perception.
+
+![avg rating by price range](https://github.com/user-attachments/assets/92d804f3-3e71-4398-b8e3-a5594438473a)
+
+<h2>Insights</h2>
+We cleaned the dataset using Python in Jupyter Notebook and subsequently created a Power BI Desktop Dashboard. <br><br>
+
+Here are the insights derived from the dataset:
 <h2>License</h2>
 This project is licensed under the MIT License.
 
